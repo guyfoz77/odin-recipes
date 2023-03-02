@@ -1,5 +1,7 @@
 * {
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: seashell;
 }
 
 .link {
@@ -12,6 +14,16 @@ h1 {
     color: yellowgreen;
 }
 
-.text {
-    font-family: 'Courier New', Courier, monospace;
+h2 {
+    font-size: 30px;
+    color: yellowgreen;
+}
+
+.misctext {
+    font-size: 24px;
+}
+
+ol,
+ul {
+    list-style-position: inside;
 }
