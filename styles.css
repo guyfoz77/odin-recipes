@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+.link {
+    color: teal;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 70px;
+    color: yellowgreen;
+}
+
+.text {
+    font-family: 'Courier New', Courier, monospace;
+}
